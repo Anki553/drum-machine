@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    text-decoration: solid;
+   color: blanchedalmond;
+}
+.drum-machine{
+    justify-content: center;
+    align-items: center;
+   height: 400px;
+   width: 400px;
+   margin-top: 50px; margin-left: 50px;
+}
+.button{
+    margin-top: 10px; margin-bottom: 10px;margin-left: 10px;margin-right: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 15px;
+}
+    #display{height: 30px;
+    width: 200px;
+    margin-left: 57px;
+    color: aliceblue;
+    text-decoration: aliceblue;
+}
